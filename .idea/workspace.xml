@@ -31,7 +31,35 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.SliderTest">
+    <configuration name="SliderTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SliderTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SliderTest.lastSlideNavigationTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTask" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SliderTest" />
+      <option name="METHOD_NAME" value="lastSlideNavigationTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SliderTest.sliderNavigationTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutoTask" />
       <option name="PACKAGE_NAME" value="" />
@@ -46,6 +74,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.SliderTest" />
+        <item itemvalue="TestNG.SliderTest.lastSlideNavigationTest" />
         <item itemvalue="TestNG.SliderTest.sliderNavigationTest" />
       </list>
     </recent_temporary>
